@@ -1,0 +1,12 @@
+.actionBtnContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 5px;
+}
+.usersActionBtn{
+    background: none;
+    font-size: 25px;
+    text-align: center;
+}
+

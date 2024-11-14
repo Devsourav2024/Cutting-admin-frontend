@@ -1,0 +1,78 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/dashboard",
+        "icon": "bx bxs-user-rectangle"
+    },
+    {
+        "display_name": "Users",
+        "route": "/Users",
+        "icon": "bx bxs-user-account"
+        
+    },
+    {
+        "display_name": "Orders",
+        "route": "/Orders",
+        "icon": "bx bxs-cart"
+    },
+    {
+        "display_name": "FAQ",
+        "route": "/Faq",
+        "icon": "bx bxs-cart"
+    },
+    {
+        "display_name": "Materials",
+        "route": "/Materials",
+        "icon": "bx bxs-pyramid"
+    },
+    {
+        "display_name": "Thickness",
+        "route": "/thickness",
+        "icon": "bx bxs-pyramid"
+    },
+    {
+        "display_name": "Colors",
+        "route": "/colors",
+        "icon": "bx bxs-pyramid"
+    },
+    {
+        "display_name": "Finish",
+        "route": "/finish",
+        "icon": "bx bxs-pyramid"
+    },
+    {
+        "display_name": "Machine",
+        "route": "/Machine",
+        "icon": "bx bxs-cart"
+    },
+    {
+        "display_name": "Material Thickness",
+        "route": "/materialThickness",
+        "icon": "bx bxs-cart"
+    },
+    {
+        "display_name": "Material Color",
+        "route": "/materialColor",
+        "icon": "bx bxs-cart"
+    },
+    {
+        "display_name": "Material Finish",
+        "route": "/materialFinish",
+        "icon": "bx bxs-cart"
+    },
+    {
+        "display_name": "Material Machine",
+        "route": "/materialMachine",
+        "icon": "bx bxs-cart"
+    },
+    {
+        "display_name": "Percentages",
+        "route": "/percentages",
+        "icon": "bx bxs-cart"
+    },
+    {
+        "display_name": "Manual Check",
+        "route": "/manual-check",
+        "icon": "bx bxs-cart"
+    }
+]

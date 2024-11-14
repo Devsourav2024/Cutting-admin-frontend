@@ -1,0 +1,9 @@
+.form{
+    z-index: 1;
+    padding: 30px;
+    width: 50vw;
+    margin: 0 auto;
+    background-color: var(--main-bg);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+}
